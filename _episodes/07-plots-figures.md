@@ -3,6 +3,7 @@ source: Rmd
 title: "Adding Code-Generated Plots and Figures"  
 teaching: 50
 exercises: 20
+start: true
 questions:
 - "What is Knitr?"
 - "What are code chunks and how they are structured?"

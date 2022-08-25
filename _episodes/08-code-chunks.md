@@ -1,5 +1,5 @@
 ---
-source: Rmd  
+source: Rmd
 title: "Reproducible & Efficient Methods of Using Code Chunks"  
 teaching: 50
 exercises: 20
