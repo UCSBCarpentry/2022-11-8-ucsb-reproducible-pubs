@@ -353,9 +353,8 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <!-- UCSB change: auto-generated schedule -->
-{% comment %}
-{% include syllabus.html %}
-{% endcomment %}
+<h2>Schedule</h2>
+{% include custom-schedule.html %}
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
