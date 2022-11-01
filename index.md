@@ -384,4 +384,4 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <!-- UCSB change: setup instructions moved to separate page -->
-See <a href="https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/setup.html">setup instructions</a>
+See <a href="./setup.html">setup instructions</a>
