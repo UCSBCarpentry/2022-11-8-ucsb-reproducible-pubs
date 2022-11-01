@@ -23,7 +23,7 @@ See instructions below for these requirements:
 
 **PART II:** Install Packages in Rstudio
 
-Install the following packages in RStudio: `bookdown`, `tidyverse`, `rticles`,`BayesFactor`, `patchwork` , `rprojroot`. 
+Install the following packages in RStudio: `bookdown`,`quarto` `tidyverse`, `rticles`,`BayesFactor`, `patchwork` , `rprojroot`. 
 We will be covering the purpose of using packages and recap different ways to install and manage them in RStudio. Nonetheless, pre-installating the packages we will be using for this workshop will save us some precious time since installation time may vary among learners. Here are the steps for two possible approaches you may follow for completing this process: 
 
 *Using Menus and Tabs*
@@ -38,12 +38,12 @@ We will be covering the purpose of using packages and recap different ways to in
 1) Copy and paste one of the following functions to the console and wait for the process to complete:
 
 `install.packages("bookdown")
+ install.packages("quarto")
  install.packages("tidyverse") 
  install.packages("rticles")  
  install.packages("BayesFactor") 
  install.packages("patchwork")
- install.packages("quarto")
- install.packages("here")``
+ install.packages("here")`
  
  or 
   
