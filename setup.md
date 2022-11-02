@@ -43,11 +43,12 @@ We will be covering the purpose of using packages and recap different ways to in
  install.packages("rticles")  
  install.packages("BayesFactor") 
  install.packages("patchwork")
- install.packages("here")`
+ install.packages("here")
+ install.packages("quarto")`
  
  or 
   
-`install.packages(c("bookdown","quarto", "tidyverse", "rticles", "BayesFactor", "patchwork", "here"))`
+`install.packages(c("bookdown","quarto", "tidyverse", "rticles", "BayesFactor", "patchwork", "here", "quarto"))`
 
 2) Don't be alarmed by the stop sign that will blink (and do not click on it otherwise you will cancel the process) or the red text messages. Once the process completes the cursor will be preceeded by a greater-than sign `>`.
 
