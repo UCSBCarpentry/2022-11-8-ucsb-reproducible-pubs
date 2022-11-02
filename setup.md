@@ -1,6 +1,13 @@
 ---
 title: Pre-workshop Setup
 ---
+
+For this workshop, we will be using a Jupyter Instance with the software and packages preinstalled to prevent install issues. 
+Please use your UCSB NETID to sign into the Instance: <a href="https://carpentryworkshop.lsit.ucsb.edu/">
+Once you have signed in, there is a selection for Rstudio. 
+
+If you are **NOT** using the Jupyter instance, and want to do use Rstudio on your own device, please follow the instructions below: 
+
 **Requirements:**
 
 **PART I:** Install Software
