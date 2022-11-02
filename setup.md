@@ -10,7 +10,7 @@ If you are **NOT** using the Jupyter instance, and want to do use Rstudio on you
 
 <h3>Requirements</h3>
 
-<h3>**PART I:** Install Software</h3>
+<h3>PART I: Install Software</h3>
 
 - Github account (use existing or create new account) 
 - Install Git for Windows (Windows users only) 
@@ -28,7 +28,7 @@ See instructions below for these requirements:
 
 
 
-<h3>**PART II:** Install Packages in Rstudio</h3>
+<h3>PART II: Install Packages in Rstudio</h3>
 
 Install the following packages in RStudio: `bookdown`,`quarto` `tidyverse`, `rticles`,`BayesFactor`, `patchwork` , `rprojroot`. 
 We will be covering the purpose of using packages and recap different ways to install and manage them in RStudio. Nonetheless, pre-installating the packages we will be using for this workshop will save us some precious time since installation time may vary among learners. Here are the steps for two possible approaches you may follow for completing this process: 
@@ -43,6 +43,7 @@ We will be covering the purpose of using packages and recap different ways to in
 *Entering function in the console*
 
 1) Copy and paste one of the following functions to the console and wait for the process to complete:
+~~~
 
 `install.packages("bookdown")
  install.packages("quarto")
@@ -51,10 +52,18 @@ We will be covering the purpose of using packages and recap different ways to in
  install.packages("BayesFactor") 
  install.packages("patchwork")
  install.packages("here")`
+
+~~~
+{: .source}
  
  or 
+
+~~~
   
 `install.packages(c("bookdown","quarto", "tidyverse", "rticles", "BayesFactor", "patchwork", "here"))`
+
+~~~
+{: .source}
 
 2) Don't be alarmed by the stop sign that will blink (and do not click on it otherwise you will cancel the process) or the red text messages. Once the process completes the cursor will be preceeded by a greater-than sign `>`.
 
