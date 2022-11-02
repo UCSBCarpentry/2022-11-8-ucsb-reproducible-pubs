@@ -6,7 +6,7 @@ For this workshop, we will be using a Jupyter Instance that LSIT has gracefully 
 Please use your UCSB NETID to sign into the Instance: https://carpentryworkshop.lsit.ucsb.edu/
 Once you have signed in, there is a selection for Rstudio.
 
-<img src = "fig/setup-jupyter-instance.PNG" >
+<img src = "/fig/setup-jupyter-instance.PNG" >
 
 If you are **NOT** using the Jupyter instance, and want to do use Rstudio on your own device, please follow the instructions below:
 
