@@ -6,11 +6,11 @@ For this workshop, we will be using a Jupyter Instance with the software and pac
 Please use your UCSB NETID to sign into the Instance: <a href="https://carpentryworkshop.lsit.ucsb.edu/"></a>
 Once you have signed in, there is a selection for Rstudio. 
 
-<h3>If you are **NOT** using the Jupyter instance, and want to do use Rstudio on your own device, please follow the instructions below:</h3> 
+If you are **NOT** using the Jupyter instance, and want to do use Rstudio on your own device, please follow the instructions below:
 
-**Requirements:**
+<h3>Requirements</h3>
 
-**PART I:** Install Software
+<h3>**PART I:** Install Software</h3>
 
 - Github account (use existing or create new account) 
 - Install Git for Windows (Windows users only) 
@@ -28,7 +28,7 @@ See instructions below for these requirements:
 
 
 
-**PART II:** Install Packages in Rstudio
+<h3>**PART II:** Install Packages in Rstudio</h3>
 
 Install the following packages in RStudio: `bookdown`,`quarto` `tidyverse`, `rticles`,`BayesFactor`, `patchwork` , `rprojroot`. 
 We will be covering the purpose of using packages and recap different ways to install and manage them in RStudio. Nonetheless, pre-installating the packages we will be using for this workshop will save us some precious time since installation time may vary among learners. Here are the steps for two possible approaches you may follow for completing this process: 
