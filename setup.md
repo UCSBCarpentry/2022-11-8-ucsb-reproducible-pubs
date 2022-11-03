@@ -7,8 +7,7 @@ title: Pre-workshop Setup
 For this workshop, we will be using a Jupyter Hub Instance that LSIT has gracously setup for us with the software and packages preinstalled. <br>
 Please use your UCSB NETID to sign into the Jupyter Hub at: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/) 
 Once you have signed in, click the RStudio Launcher button.
-
-###  You do not need to follow the setup instructions below if you plan on using the Jupyter Hub Interface rather than RStudio on your own computer.
+**You do not need to follow the setup instructions below if you plan on using the Jupyter Hub Interface rather than RStudio on your own computer**
 {: .prereq}
 
 ![jupyter-instance](/fig/setup-jupyter-instance.PNG)
