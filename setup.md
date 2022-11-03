@@ -2,18 +2,20 @@
 title: Pre-workshop Setup
 ---
 
-> ## Logging into the Rstudio Jupyter Instance
+> ## Logging into the RStudio Jupyter Hub Instance
 > 
-For this workshop, we will be using a Jupyter Instance that LSIT has gracefully setup for us with the software and packages preinstalled to prevent install issues. 
-Please use your UCSB NETID to sign into the Instance: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/)
-Once you have signed in, there is a selection for Rstudio. **you do not need to follow the setup instructions below if you plan on using the Jupyter Interface** 
+For this workshop, we will be using a Jupyter Hub Instance that LSIT has gracously setup for us with the software and packages preinstalled. <br>
+Please use your UCSB NETID to sign into the Jupyter Hub at: [https://carpentryworkshop.lsit.ucsb.edu/](https://carpentryworkshop.lsit.ucsb.edu/) 
+Once you have signed in, click the RStudio Launcher button.
+
+###  You do not need to follow the setup instructions below if you plan on using the Jupyter Hub Interface rather than RStudio on your own computer.
 {: .prereq}
 
 ![jupyter-instance](/fig/setup-jupyter-instance.PNG)
 
 > ## Manual Install Requirements
 >
-If you are **NOT** using the Jupyter instance, and want to do use Rstudio on your own device, please follow the instructions below:
+If you are **NOT** using the Jupyter Hub instance, and want to use RStudio on your own computer, please follow the instructions below:
 {: .prereq}
 
 
@@ -74,5 +76,5 @@ We will be covering the purpose of using packages and recap different ways to in
 
 2) Don't be alarmed by the stop sign that will blink (and do not click on it otherwise you will cancel the process) or the red text messages. Once the process completes the cursor will be preceeded by a greater-than sign `>`.
 
-You may close Rstudio and all packages will remain installed when you reopen it. 
+You may close RStudio and all packages will remain installed when you reopen it. 
 
