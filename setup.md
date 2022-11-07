@@ -56,7 +56,6 @@ We will be covering the purpose of using packages and recap different ways to in
 `install.packages("bookdown")
  install.packages("quarto")
  install.packages("tidyverse") 
- install.packages("rticles")  
  install.packages("BayesFactor") 
  install.packages("patchwork")
  install.packages("here")`
@@ -68,7 +67,7 @@ We will be covering the purpose of using packages and recap different ways to in
 
 ~~~
   
-`install.packages(c("bookdown","quarto", "tidyverse", "rticles", "BayesFactor", "patchwork", "here"))`
+`install.packages(c("bookdown","quarto", "tidyverse", "BayesFactor", "patchwork", "here"))`
 
 ~~~
 {: .source}
